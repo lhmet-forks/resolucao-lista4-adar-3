@@ -215,6 +215,9 @@ dados_sm_date %>%
    c. Filtre os dados obtidos em **(b)** de forma a descobrir as datas em que as observações de `tmax` ou `tmin` são faltantes. Mostre o **`tibble`** filtrado com as datas e explique o porquê de seus valores. *DICA: quantas observações são esperadas por ano?*. 
 
 
+```{r}
+
+```
 
 
 
